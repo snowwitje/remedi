@@ -1,12 +1,9 @@
-# REMEDI Open Data
+## REMEDI Labs
+### Connecting researchers and data providers
 
-## Project Mission & Summary
-
-*REMEDI* platform is a virtual home for community of health professionals - nurses and pharmacists - interested in improving patient safety at their hospitals. By sharing alerts and settings data from the "smart" medical devices in their care units, they get to see and analyze data from other hospitals and take informed data-driven decisions on how to adjust their technology and practices to make it safer for patients.
+*REMEDI* platform is a virtual home for community of health professionals - nurses and pharmacists - working to improve patient safety at their hospitals. By sharing alerts and settings data from the "smart" medical devices in their care units, they get to see and analyze data from other hospitals and take informed data-driven decisions on how to adjust their technology and practices to make it safer for patients.
  
-*REMEDI Open Data* project aims to open collected data for medical researchers and provide a way for researchers to publish study results in the form of data-driven decision-support tools for the medical professionals to use in their daily work.
-
-This repository will host project planning materials - roadmap, milestones, requirements, progress tracking.
+*REMEDI Labs* project aims to provide an interface for medical researchers to access collected data and offer a way for researchers to publish study results in the form of data-driven decision-support tools for the medical professionals to use in their daily work.
 
 #### Relevant Links:
 - [REMEDI](https://catalyzecare.org/remedi): Home of REMEDI - Regenstrief National Center for Medical Device Informatics.
