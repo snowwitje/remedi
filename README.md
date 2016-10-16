@@ -37,3 +37,12 @@ For more info take a look at [CONTRIBUTING.md](CONTRIBUTING.md).
 
 This project adheres to a [code of conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to REMEDICentral@purdue.edu.
 
+## MozFest 2016 ##
+While there is no session on the REMEDI project at this year's [Mozfest Festival](http://mozillafestival.org/), the development team are attending the event and running [3 sessions](http://tinyurl.com/mozfesthub) on [HUBzero](https://hubzero.org) - the open source platform REMEDI is built on.
+
+So join us at the [Mozilla Festival](http://mozillafestival.org/) October 28-30, 2016 at Ravensbourne College, London!
+
+![screen shot 2016-10-05 at 13 49 18](https://cloud.githubusercontent.com/assets/617994/19124773/8da8a3ce-8b02-11e6-9a11-5166e5179499.png)
+
+## MozFest 2015
+REMEDI project was featured at [Mozfest 2015](https://github.com/mozilla/mozfest-program/issues/493) in @snowwitje session on [UX Design Challenge in Scientific Software](http://snowwitje.github.io/presentations/mozfest2015/#/)
