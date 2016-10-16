@@ -23,7 +23,7 @@ The Regenstrief Center for Healthcare Engineering (RCHE), an interdisciplinary r
 - [HUBzero](https://hubzero.org): open source software platform for creating dynamic web sites that support scientific research and educational activities.
 
 
-- [Project Open Canvas](assets/Open_Canvas.pdf).
+- [Project Open Canvas](assets/docs/Open_Canvas.pdf).
 
 ## Contributing ##
 
