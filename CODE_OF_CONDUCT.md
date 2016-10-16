@@ -1,0 +1,1 @@
+This project, participating in events and training programs organized by the Mozilla Foundation, respects Mozilla's [community participation guidelines](https://www.mozilla.org/en-US/about/governance/policies/participation/).
