@@ -4,6 +4,8 @@
  
 *REMEDI Research Access* project aims to provide an interface for medical researchers to access collected de-identified data and offer a way for researchers to publish study results in the form of data-driven decision-support tools for the medical professionals to use in their daily work.
 
+![REMEDI Users](/assets/images/users.png)
+
 ## Important Note on Data Access
 
 This repository hosts open resources and code for the research community to work with the data.  
